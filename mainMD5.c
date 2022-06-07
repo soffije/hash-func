@@ -1,4 +1,4 @@
-//MD5 algoritm on C
+//MD5 algorithm on C
 
 #include <stdio.h>
 
